@@ -20,12 +20,13 @@ header{
 }
 
 .navbar{
-	float:right;
 	display:inline-block;
+	width: 100%;
 	background-color: rgb(85, 102, 55);
 }
 
 .navbar ul{
+	float:right;
 	padding:10px 25px 10px 10px;
 	margin: 10px 25px 10px 10px;
 	
