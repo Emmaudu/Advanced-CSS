@@ -11,10 +11,11 @@
 
 <nav class="navbar">
 			<ul>
-				<li> Home </li>
+				<li><a href="index.php">Home</a></li>
 				<li> About</li>
-				<li> Contact</li>
-				<li> Orders</li>
+                <li> Contact</li>
+                <li><a href="login.php">Login</a></li>
+				<li><a href="signup.php">Create Account</a></li>
 
 			</ul>
 

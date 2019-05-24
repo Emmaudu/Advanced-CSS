@@ -2,6 +2,9 @@
 		<div class="container">
 				<div class="row">
 					<div class="col-md-6 mx-auto">
+                        <br>
+                            <br>
+                                <br>
 						<ul class="list-unstyled">
 							<li>
 								<h3>About Us</h3>
@@ -15,9 +18,15 @@
 						</ul>
 
 
-					</div>
+                    </div>
+                   
 
 					<div class="col-md-4">
+
+                    <br>
+                    <br>
+                    <br>
+
 						<ul class="list-unstyled">
 							<li>
 								<a href="" class="">Facebook</a>
