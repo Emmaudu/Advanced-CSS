@@ -4,6 +4,20 @@ header{
 	
 }
 
+
+.container{
+	margin-top: 20px auto;
+	padding: 20px 30px;
+}
+
+.list-unstyle li h3,p{
+	color: aliceblue
+}
+
+.page-footer{
+	background-color: rgba(87, 87, 87, 0.781)
+}
+
 .navbar{
 	float:right;
 	display:inline-block;
