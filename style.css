@@ -5,22 +5,24 @@ header{
 }
 
 
-.container{
-	margin-top: 20px auto;
-	padding: 20px 30px;
+
+
+.list-unstyled li h3{
+	color: aliceblue
 }
 
-.list-unstyle li h3,p{
+.list-unstyled li p, a{
 	color: aliceblue
 }
 
 .page-footer{
-	background-color: rgba(87, 87, 87, 0.781)
+	background: rgba(29, 39, 29, 0.781)
 }
 
 .navbar{
 	float:right;
 	display:inline-block;
+	background-color: rgb(85, 102, 55);
 }
 
 .navbar ul{
