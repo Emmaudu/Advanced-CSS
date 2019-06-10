@@ -4,6 +4,18 @@ header{
 	
 }
 
+.column-layout{
+	display:flex;
+	padding:20px 50px;
+	margin: 40px auto 0 auto;
+	max-width: 1300px;
+	background-color: blueviolet;
+
+}
+
+.column-layout .column{
+	flex:1;
+}
 
 .page-footer{
 	height:50%;
@@ -93,15 +105,4 @@ header{
 	transform: translate(-50%, -50%)
 }
 
-.column-layout{
-	display:flex;
-	padding:20px 50px;
-	margin: 40px auto 0 auto;
-	max-width: 1300px;
-	background-color: blueviolet;
 
-}
-
-.column-layout .column{
-	flex:1;
-}
