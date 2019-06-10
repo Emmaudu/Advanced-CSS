@@ -6,21 +6,21 @@ header{
 
 
 .page-footer{
-	height:100%;
+	height:50%;
 }
 
 
 
 .list-unstyled li h3{
-	color: aliceblue
+	color: aliceblue;
 }
 
 .list-unstyled li p, a{
-	color: aliceblue
+	color: aliceblue;
 }
 
 .page-footer{
-	background: rgba(29, 39, 29, 0.781)
+	background: rgb(209, 226, 179);
 }
 
 .navbar{
@@ -93,6 +93,15 @@ header{
 	transform: translate(-50%, -50%)
 }
 
-	
+.column-layout{
+	display:flex;
+	padding:20px 50px;
+	margin: 40px auto 0 auto;
+	max-width: 1300px;
+	background-color: blueviolet;
 
+}
 
+.column-layout .column{
+	flex:1;
+}

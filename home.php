@@ -37,6 +37,29 @@
 								<br>
 									<br>
 										<br>
+
+			<div class="column-layout">
+				<div class="column">
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim molestiae rerum et ad neque voluptate cupiditate non atque, nesciunt nihil odit temporibus reprehenderit accusantium quia iusto debitis. Iste, illum? Aut?</P>
+				
+				</div>
+
+				<div class="column">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim molestiae rerum et ad neque voluptate cupiditate non atque, nesciunt nihil odit temporibus reprehenderit accusantium quia iusto debitis. Iste, illum? Aut?</P>
+
+				</div>
+
+				<div class="column">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim molestiae rerum et ad neque voluptate cupiditate non atque, nesciunt nihil odit temporibus reprehenderit accusantium quia iusto debitis. Iste, illum? Aut?</P>
+
+				</div>
+			
+			
+			</div>
+
+
+
+
 <div class="get-quote">
 <div class="container">
 	<br>
